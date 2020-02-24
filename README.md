@@ -7,7 +7,7 @@ of how Blockchain works through the implementation of a simple cryptocurrency.
 
 ## Instructions - How can I run this on my computer?
 
-1. Make sure you have Go installed 
+1. Make sure you have [Go](https://golang.org/doc/install) for your operating system installed 
 2. `go build`
 3. `./blockchain-MIT-ditr-20`
 
