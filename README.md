@@ -8,10 +8,13 @@ of how Blockchain works through the implementation of a simple cryptocurrency.
 ## Instructions - How can I run this on my computer?
 
 1. Make sure you have [Go](https://golang.org/doc/install) for your operating system installed 
-2. `go build`
-3. `./blockchain-MIT-ditr-20`
+2. Open `terminal` / `commandline`
+3. Clone this repository: `git clone https://github.com/albtop/blockchain-MIT-ditr-20`
+3. Change directory `cd` inside the local directory:  `cd blockchain-MIT-ditr-20`
+2. Run `go build`
+3. Run `./blockchain-MIT-ditr-20`
 
-Output should look something like the following
+**Output should look something like the following**
 
 ```
 Prev. hash: 
